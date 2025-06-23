@@ -1,0 +1,9 @@
+# Nmap scan report for 192.168.56.1
+Host is up (0.0020s latency).
+Not shown: 995 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
